@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anknegi" alt="anknegi" /></a> </p>
 
-- 🌱 I’m currently learning **Angular & React**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Laravel,Drupal and Yii2**
+- 💬 Ask me about **Vue, React, Node, Laravel,Drupal and Yii2**
 
 - 📫 How to reach me **ankitnegi2008@gmail.com**
 
